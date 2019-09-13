@@ -13,3 +13,9 @@ a {
   color: #333;
   text-decoration: none;
 }
+
+/* Google fonts */
+
+.montserrat {
+  font-family: 'Montserrat', sans-serif;
+}

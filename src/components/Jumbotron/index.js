@@ -7,8 +7,8 @@ class Title extends React.Component {
         return (
             <div>
                 <Jumbotron fluid>
-                    <Container>
-                        <h1>David Steger</h1>
+                    <Container className="montserrat">
+                        <h1>DAVID STEGER</h1>
                         <p>MERN Stack Developer</p>
                     </Container>
                 </Jumbotron>
