@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import Menu from './components/Accordion'
 import Title from './components/Jumbotron'
 
 class App extends React.Component {
@@ -8,6 +9,7 @@ class App extends React.Component {
     return (
       <div>
         <Title />
+        <Menu />
       </div>
     );
   }
