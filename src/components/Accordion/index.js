@@ -34,11 +34,10 @@ export default class Menu extends Component {
                                         <Card.Body>
                                             <Card.Title>Car Click Memory Game</Card.Title>
                                             <Card.Text>
-                                                Some quick example text to build on the card title and make up the bulk of
-                                                the card's content.
+                                                Test your memory in this Car Click Memory Game!
                                         </Card.Text>
 
-                                            <Button variant="primary">Github</Button>
+                                        <a href="https://github.com/Stegler/Clicky-Game" variant="info"><Button variant="info">GitHub</Button></a>
                                         </Card.Body>
                                     </Card>
 
@@ -47,11 +46,11 @@ export default class Menu extends Component {
                                         <Card.Body>
                                             <Card.Title>Cave Runner</Card.Title>
                                             <Card.Text>
-                                                Some quick example text to build on the card title and make up the bulk of
-                                                the card's content.
+                                                2D Platform game. Collect the coins as fast as you can! See where you rank on the leaderboards!
                                         </Card.Text>
 
-                                            <Button variant="primary">Github</Button>
+                                        <a href="https://github.com/Stegler/Netscape" variant="info"><Button variant="info">GitHub</Button></a>
+
                                         </Card.Body>
                                     </Card>
 
@@ -64,7 +63,9 @@ export default class Menu extends Component {
                             Contact
     </Accordion.Toggle>
                         <Accordion.Collapse eventKey="2">
-                            <Card.Body>Contact info</Card.Body>
+                            <Card.Body>Email: d.steger@ymail.com |
+                                Phone: 360-528-1280
+                            </Card.Body>
                         </Accordion.Collapse>
                     </Card>
                 </Accordion>
