@@ -1,3 +1,5 @@
+<h1>Deployed on GitHub Pages: https://stegler.github.io/React-Portfolio/</h1>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
