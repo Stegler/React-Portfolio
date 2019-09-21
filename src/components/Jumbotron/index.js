@@ -1,15 +1,24 @@
 import React from 'react';
-import { Container, Jumbotron } from 'react-bootstrap';
+import "./style.css";
+import PortfolioPic from '../../images/portfoliopic.png'
+import { Container, Col, Image, Jumbotron, Row } from 'react-bootstrap';
 
 class Title extends React.Component {
 
     render() {
         return (
             <div>
-                <Jumbotron style={{ paddingBottom: "200px", marginBottom: "0px"}} fluid>
-                    <Container className="montserrat">
-                        <h1 style={{ fontSize: "70px" }}>DAVID STEGER</h1>
-                        <h1 style={{ fontSize: "30px", paddingLeft: "6px" }}>MERN Stack Developer</h1>
+                <Jumbotron style={{ paddingBottom: "50px", marginBottom: "0px", background: "black", color: "white" }} fluid>
+                    <Container>
+                        <Row>
+                            <Col>
+                                <h1 style={{ fontSize: "70px", paddingTop: "50px" }}>DAVID STEGER</h1>
+                                <h1 style={{ fontSize: "30px", paddingLeft: "6px" }}>Full Stack Stack Developer</h1>
+                            </Col>
+                            <Col className="image-container">
+                                    <Image className="image" src={PortfolioPic} roundedCircle />
+                            </Col>
+                        </Row>
                     </Container>
                 </Jumbotron>
             </div>

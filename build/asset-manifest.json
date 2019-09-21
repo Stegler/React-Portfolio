@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.8e434554.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.eb0854b8.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.eb0854b8.chunk.js.map",
+    "runtime~main.js": "/React-Portfolio/static/js/runtime~main.835204c3.js",
+    "runtime~main.js.map": "/React-Portfolio/static/js/runtime~main.835204c3.js.map",
+    "static/js/2.13b7b6fc.chunk.js": "/React-Portfolio/static/js/2.13b7b6fc.chunk.js",
+    "static/js/2.13b7b6fc.chunk.js.map": "/React-Portfolio/static/js/2.13b7b6fc.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "precache-manifest.c7e553ecde310d410059e7dd9bf04dda.js": "/React-Portfolio/precache-manifest.c7e553ecde310d410059e7dd9bf04dda.js",
+    "service-worker.js": "/React-Portfolio/service-worker.js",
+    "static/css/main.8e434554.chunk.css.map": "/React-Portfolio/static/css/main.8e434554.chunk.css.map",
+    "static/media/clickygame.png": "/React-Portfolio/static/media/clickygame.39687d18.png",
+    "static/media/netscape.png": "/React-Portfolio/static/media/netscape.735f76ae.png"
+  }
+}
