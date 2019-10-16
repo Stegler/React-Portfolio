@@ -13,7 +13,7 @@ class Title extends React.Component {
                         <Row>
                             <Col>
                                 <h1 style={{ fontSize: "70px", paddingTop: "50px" }}>DAVID STEGER</h1>
-                                <h1 style={{ fontSize: "30px", paddingLeft: "6px" }}>Full Stack Developer</h1>
+                                <h1 style={{ fontSize: "30px", paddingLeft: "6px" }}>Full Stack Web Developer</h1>
                             </Col>
                             <Col className="image-container">
                                     <Image className="image" src={PortfolioPic} roundedCircle />
