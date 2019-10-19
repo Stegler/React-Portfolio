@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.8e434554.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.eb0854b8.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.eb0854b8.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.4d3f7b5a.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.5f872d9e.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.5f872d9e.chunk.js.map",
     "runtime~main.js": "/React-Portfolio/static/js/runtime~main.835204c3.js",
     "runtime~main.js.map": "/React-Portfolio/static/js/runtime~main.835204c3.js.map",
-    "static/js/2.13b7b6fc.chunk.js": "/React-Portfolio/static/js/2.13b7b6fc.chunk.js",
-    "static/js/2.13b7b6fc.chunk.js.map": "/React-Portfolio/static/js/2.13b7b6fc.chunk.js.map",
+    "static/css/2.b6e0510c.chunk.css": "/React-Portfolio/static/css/2.b6e0510c.chunk.css",
+    "static/js/2.447ed8de.chunk.js": "/React-Portfolio/static/js/2.447ed8de.chunk.js",
+    "static/js/2.447ed8de.chunk.js.map": "/React-Portfolio/static/js/2.447ed8de.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.c7e553ecde310d410059e7dd9bf04dda.js": "/React-Portfolio/precache-manifest.c7e553ecde310d410059e7dd9bf04dda.js",
+    "precache-manifest.1fd3c7352128d8ff9580125affac7c81.js": "/React-Portfolio/precache-manifest.1fd3c7352128d8ff9580125affac7c81.js",
     "service-worker.js": "/React-Portfolio/service-worker.js",
-    "static/css/main.8e434554.chunk.css.map": "/React-Portfolio/static/css/main.8e434554.chunk.css.map",
+    "static/css/2.b6e0510c.chunk.css.map": "/React-Portfolio/static/css/2.b6e0510c.chunk.css.map",
+    "static/css/main.4d3f7b5a.chunk.css.map": "/React-Portfolio/static/css/main.4d3f7b5a.chunk.css.map",
+    "static/media/mdb.css": "/React-Portfolio/static/media/arrow_right.8ef6a08c.svg",
     "static/media/clickygame.png": "/React-Portfolio/static/media/clickygame.39687d18.png",
-    "static/media/netscape.png": "/React-Portfolio/static/media/netscape.735f76ae.png"
+    "static/media/all.min.css": "/React-Portfolio/static/media/fa-solid-900.db525089.woff",
+    "static/media/netscape.png": "/React-Portfolio/static/media/netscape.735f76ae.png",
+    "static/media/portfoliopic.png": "/React-Portfolio/static/media/portfoliopic.2321e312.png"
   }
 }
